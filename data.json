@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "book": "Harry Potter",
+        "author": "JK Rowling",
+        "price": 25
+    },
+    {
+        "id": "2",
+        "book": "The Shining",
+        "author": "Stephen King",
+        "price": 32
+    },
+    {
+        "id": "3",
+        "book": "Silmarillion",
+        "author": "JRR Tolkien",
+        "price": 41
+    },
+    {
+        "id": "4",
+        "book": "The Lord of the Rings",
+        "author": "JRR Tolkien",
+        "price": 43
+    },
+    {
+        "id": "5",
+        "book": "The Hobbits",
+        "author": "JRR Tolkien",
+        "price": 39
+    },
+    {
+        "id": "6",
+        "book": "The Call of Cthulhu",
+        "author": "HP Lovecraft",
+        "price": 27
+    }
+]
